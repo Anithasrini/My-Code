@@ -1,23 +1,21 @@
-h1{
- background-color: pink;
- color: blue;
- text-align: center;
- }
-
- h2{
+h1 {
+  background-color: pink;
+  color: blue;
+  text-align: center;
+}
+h2{
   color: red;
-
-  }
-  h3{
-   color: green;
-   font-weight: bold;
-   font-style: italic;
-   }
-  ul{
-   font-size: 20pxl;
-   line-height: 30pxl;
-   }
-a{
- color: blue;
- font-weight: bold;
- }
+}
+h3 {
+  color: green;
+  font-weight: bold;
+  font-style: italic;
+}
+ul {
+  font-size: 20pxl;
+  line-height: 30pxl;
+}
+a {
+  color: blue;
+  font-weight: bold;
+}
