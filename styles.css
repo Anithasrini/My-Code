@@ -6,24 +6,23 @@ h1 {
 
 
 h2 {
-color: purple;
-  font-style: italic;
+   color: purple;
+   font-style: italic;
 }
 
-h3{
-  color: blue;
+h3 {
+   color: blue;
   }
 h4 {
-font-weight: bold;
-color: orange
-;
+  font-weight: bold;
+  color: orange;
 }
 
 p {
    font-family: sans-serif;
 }
 
-ul{
+ul {
    font-size: 30pxl;
    line-hieght: 40pxl;
 }
