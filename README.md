@@ -6,7 +6,7 @@
 
 ## Description
 
- This web page was created for my first code review where all the p, h, ul,ol,li,em, strong and img tags are used in the html  page.CSS page with all prperties and valuesthis web page will be useful for the user, who start learning their HTML and CSS.
+ This web page clearly shows the p, h, ul,ol,li,em, strong and img tags in the html and CSS.It will be useful for the users, who starts learning their HTML and CSS, which contains all the properties and values.
 
 ## Setup
 
