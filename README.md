@@ -13,6 +13,7 @@
  Clone this repository.
  Open a simple HTTP server in the top level of the cloned directory.
  Then open your browser of choice.
+ Go to this link *[http://Anithasrini.github.io/My-code]* to view the page.
 
 ## Tecnologies Used
 
